@@ -1,0 +1,1322 @@
+{
+    "version": "62100",
+    "data": {
+        "id": "72576c6b-e618-4be5-96ff-a0337ba4f2ad",
+        "offsetX": 148.29914665634482,
+        "offsetY": 21.521407714455577,
+        "zoom": 57.72241992882563,
+        "gridSize": 15,
+        "layers": [
+            {
+                "id": "21cf6d1a-9445-4d19-a89b-59142efade96",
+                "type": "diagram-links",
+                "isSvg": true,
+                "transformed": true,
+                "models": {
+                    "e9643c7b-2407-401e-9f3b-7f56151e4127": {
+                        "id": "e9643c7b-2407-401e-9f3b-7f56151e4127",
+                        "locked": true,
+                        "type": "onetomany",
+                        "selected": false,
+                        "source": "c3fdf3f1-4f90-423b-a6eb-2075714e09c9",
+                        "sourcePort": "038493b0-ece4-4551-b558-4bb0fff3d414",
+                        "target": "6018e729-27a4-49c0-ad32-5901488a01c5",
+                        "targetPort": "5ceac476-5df3-4179-b635-06459e391e6d",
+                        "points": [
+                            {
+                                "id": "e4010934-d299-43e2-8759-95ee2bffe5de",
+                                "type": "point",
+                                "x": 428.99999527259416,
+                                "y": 92.0000094594898
+                            },
+                            {
+                                "id": "87bfbe62-b666-47b2-963d-0c2a8220eaba",
+                                "type": "point",
+                                "x": 428.99999527259416,
+                                "y": 451.9999752199815
+                            },
+                            {
+                                "id": "3196eb6e-c0f3-446c-a788-ab23f498a041",
+                                "type": "point",
+                                "x": 188.9999865018828,
+                                "y": 451.9999752199815
+                            }
+                        ],
+                        "labels": [],
+                        "width": 1,
+                        "color": "gray",
+                        "curvyness": 50,
+                        "selectedColor": "rgb(0,192,255)",
+                        "data": {
+                            "local_table_uid": "6018e729-27a4-49c0-ad32-5901488a01c5",
+                            "local_column_attnum": 3,
+                            "referenced_table_uid": "c3fdf3f1-4f90-423b-a6eb-2075714e09c9",
+                            "referenced_column_attnum": 0
+                        }
+                    },
+                    "79290b03-9399-4931-808c-96113b35d0ff": {
+                        "id": "79290b03-9399-4931-808c-96113b35d0ff",
+                        "locked": true,
+                        "type": "onetomany",
+                        "selected": false,
+                        "source": "c3fdf3f1-4f90-423b-a6eb-2075714e09c9",
+                        "sourcePort": "038493b0-ece4-4551-b558-4bb0fff3d414",
+                        "target": "afeabd98-7a23-4e2e-937b-407e528a4a03",
+                        "targetPort": "6d1f19be-a983-46d0-a76d-d83724600115",
+                        "points": [
+                            {
+                                "id": "848c5ee0-c373-4fc7-9be8-0cf23543b67b",
+                                "type": "point",
+                                "x": 428.99999527259416,
+                                "y": 92.0000094594898
+                            },
+                            {
+                                "id": "d214afb2-410f-4674-8004-5e0aba2e3f87",
+                                "type": "point",
+                                "x": 428.99999527259416,
+                                "y": 511.9999774126593
+                            },
+                            {
+                                "id": "daa8166e-5b63-4419-8788-d2da95f77911",
+                                "type": "point",
+                                "x": 399.000017874043,
+                                "y": 511.9999774126593
+                            }
+                        ],
+                        "labels": [],
+                        "width": 1,
+                        "color": "gray",
+                        "curvyness": 50,
+                        "selectedColor": "rgb(0,192,255)",
+                        "data": {
+                            "local_table_uid": "afeabd98-7a23-4e2e-937b-407e528a4a03",
+                            "local_column_attnum": 3,
+                            "referenced_table_uid": "c3fdf3f1-4f90-423b-a6eb-2075714e09c9",
+                            "referenced_column_attnum": 0
+                        }
+                    },
+                    "c912b65d-87e1-4608-af12-270d100bdd0f": {
+                        "id": "c912b65d-87e1-4608-af12-270d100bdd0f",
+                        "locked": true,
+                        "type": "onetomany",
+                        "selected": false,
+                        "source": "6018e729-27a4-49c0-ad32-5901488a01c5",
+                        "sourcePort": "c2448af4-4382-434c-a755-af953f2de454",
+                        "target": "e00ee102-6f64-4132-8f8e-53a59558f5d6",
+                        "targetPort": "775b8b83-788d-4584-9ea0-c85c9ed673bc",
+                        "points": [
+                            {
+                                "id": "9b4dae16-55d8-49f2-9c63-6354a661a8a9",
+                                "type": "point",
+                                "x": 188.9999865018828,
+                                "y": 376.999984328028
+                            },
+                            {
+                                "id": "317ea624-810c-41f9-af6a-205c345b02c1",
+                                "type": "point",
+                                "x": 188.9999865018828,
+                                "y": 751.9999544738753
+                            },
+                            {
+                                "id": "564b498b-7f25-4aa6-973d-ec23a7368904",
+                                "type": "point",
+                                "x": 218.99999889894613,
+                                "y": 751.9999544738753
+                            }
+                        ],
+                        "labels": [],
+                        "width": 1,
+                        "color": "gray",
+                        "curvyness": 50,
+                        "selectedColor": "rgb(0,192,255)",
+                        "data": {
+                            "local_table_uid": "e00ee102-6f64-4132-8f8e-53a59558f5d6",
+                            "local_column_attnum": 6,
+                            "referenced_table_uid": "6018e729-27a4-49c0-ad32-5901488a01c5",
+                            "referenced_column_attnum": 0
+                        }
+                    },
+                    "61ee39ac-f4dc-45ac-bad4-e0a0a9913f8a": {
+                        "id": "61ee39ac-f4dc-45ac-bad4-e0a0a9913f8a",
+                        "locked": true,
+                        "type": "onetomany",
+                        "selected": false,
+                        "source": "afeabd98-7a23-4e2e-937b-407e528a4a03",
+                        "sourcePort": "9ba67984-1479-4751-b98b-1a775f0824ca",
+                        "target": "e00ee102-6f64-4132-8f8e-53a59558f5d6",
+                        "targetPort": "5b3b2ddf-8e25-4998-929f-d94939374f7d",
+                        "points": [
+                            {
+                                "id": "490618c4-9366-47da-a2e9-bd61eba1b89b",
+                                "type": "point",
+                                "x": 399.000017874043,
+                                "y": 436.9999865207059
+                            },
+                            {
+                                "id": "e6543460-2cb1-468e-a7d1-199f9a9c5dea",
+                                "type": "point",
+                                "x": 399.000017874043,
+                                "y": 832.0000198186497
+                            },
+                            {
+                                "id": "8e5cf987-763e-4b99-b896-e2482ef67973",
+                                "type": "point",
+                                "x": 218.99999889894613,
+                                "y": 832.0000198186497
+                            },
+                            {
+                                "id": "c9ce0045-cb11-4822-b387-529668f36e65",
+                                "type": "point",
+                                "x": 218.99999889894613,
+                                "y": 726.9999259128406
+                            }
+                        ],
+                        "labels": [],
+                        "width": 1,
+                        "color": "gray",
+                        "curvyness": 50,
+                        "selectedColor": "rgb(0,192,255)",
+                        "data": {
+                            "local_table_uid": "e00ee102-6f64-4132-8f8e-53a59558f5d6",
+                            "local_column_attnum": 5,
+                            "referenced_table_uid": "afeabd98-7a23-4e2e-937b-407e528a4a03",
+                            "referenced_column_attnum": 0
+                        }
+                    },
+                    "4dfa109d-6267-48fa-9f36-2266e77f9d7f": {
+                        "id": "4dfa109d-6267-48fa-9f36-2266e77f9d7f",
+                        "locked": true,
+                        "type": "onetomany",
+                        "selected": false,
+                        "source": "c3fdf3f1-4f90-423b-a6eb-2075714e09c9",
+                        "sourcePort": "038493b0-ece4-4551-b558-4bb0fff3d414",
+                        "target": "e00ee102-6f64-4132-8f8e-53a59558f5d6",
+                        "targetPort": "af816fb8-dd40-4b9a-9f8b-d4df51d7e988",
+                        "points": [
+                            {
+                                "id": "3f7daf56-78f7-4349-8474-35cb0c857565",
+                                "type": "point",
+                                "x": 428.99999527259416,
+                                "y": 92.0000094594898
+                            },
+                            {
+                                "id": "f13d9608-3341-4551-8e3a-5cb730b1770b",
+                                "type": "point",
+                                "x": 428.99999527259416,
+                                "y": 311
+                            },
+                            {
+                                "id": "f16ecd58-3409-4137-8c5d-0f8cf15115a9",
+                                "type": "point",
+                                "x": 440,
+                                "y": 426.5
+                            },
+                            {
+                                "id": "7b07e0dc-db19-4695-8296-7140c78849c3",
+                                "type": "point",
+                                "x": 440,
+                                "y": 701.9999921429567
+                            },
+                            {
+                                "id": "aa9885a6-43fa-4b2d-b10c-a87299404f88",
+                                "type": "point",
+                                "x": 218.99999889894613,
+                                "y": 701.9999921429567
+                            }
+                        ],
+                        "labels": [],
+                        "width": 1,
+                        "color": "gray",
+                        "curvyness": 50,
+                        "selectedColor": "rgb(0,192,255)",
+                        "data": {
+                            "local_table_uid": "e00ee102-6f64-4132-8f8e-53a59558f5d6",
+                            "local_column_attnum": 4,
+                            "referenced_table_uid": "c3fdf3f1-4f90-423b-a6eb-2075714e09c9",
+                            "referenced_column_attnum": 0
+                        }
+                    },
+                    "beb0c03d-59d7-42f1-ad9d-6e5421e10e0d": {
+                        "id": "beb0c03d-59d7-42f1-ad9d-6e5421e10e0d",
+                        "locked": true,
+                        "type": "onetomany",
+                        "selected": false,
+                        "source": "db1737f8-4ef6-43a7-b6e4-7a496c9162ce",
+                        "sourcePort": "66047dc6-cd54-4ffc-9a49-3ba27cbd9f33",
+                        "target": "e00ee102-6f64-4132-8f8e-53a59558f5d6",
+                        "targetPort": "f2908cf6-24f9-4a5d-ba38-3e75ff77eb08",
+                        "points": [
+                            {
+                                "id": "8dcc769f-40be-4d05-9296-2a4732cf3334",
+                                "type": "point",
+                                "x": 510.99998308355407,
+                                "y": 421.99999782143027
+                            },
+                            {
+                                "id": "74151935-57ae-498c-be98-18c5e5548e7d",
+                                "type": "point",
+                                "x": 428.59416353397603,
+                                "y": 421.99999782143027
+                            },
+                            {
+                                "id": "f7470f73-3cd5-44d4-81ff-a93c5fa08920",
+                                "type": "point",
+                                "x": 428.59416353397603,
+                                "y": 776.9999830349102
+                            },
+                            {
+                                "id": "a8035591-d28f-4e52-942c-b0123b300a2d",
+                                "type": "point",
+                                "x": 218.99999889894613,
+                                "y": 776.9999830349102
+                            }
+                        ],
+                        "labels": [],
+                        "width": 1,
+                        "color": "gray",
+                        "curvyness": 50,
+                        "selectedColor": "rgb(0,192,255)",
+                        "data": {
+                            "local_table_uid": "e00ee102-6f64-4132-8f8e-53a59558f5d6",
+                            "local_column_attnum": 7,
+                            "referenced_table_uid": "db1737f8-4ef6-43a7-b6e4-7a496c9162ce",
+                            "referenced_column_attnum": 0
+                        }
+                    }
+                }
+            },
+            {
+                "id": "45859ffa-3113-4127-8ae8-1f9e492b5880",
+                "type": "diagram-nodes",
+                "isSvg": false,
+                "transformed": true,
+                "models": {
+                    "c3fdf3f1-4f90-423b-a6eb-2075714e09c9": {
+                        "id": "c3fdf3f1-4f90-423b-a6eb-2075714e09c9",
+                        "type": "table",
+                        "selected": false,
+                        "x": 225,
+                        "y": 0,
+                        "ports": [
+                            {
+                                "id": "3ce280c6-fa04-4df4-9f34-93cde04588ea",
+                                "type": "onetomany",
+                                "x": 225.99998342088927,
+                                "y": 92.0000094594898,
+                                "name": "coll-port-0-left",
+                                "alignment": "left",
+                                "parentNode": "c3fdf3f1-4f90-423b-a6eb-2075714e09c9",
+                                "links": []
+                            },
+                            {
+                                "id": "038493b0-ece4-4551-b558-4bb0fff3d414",
+                                "type": "onetomany",
+                                "x": 398.99999527259416,
+                                "y": 92.0000094594898,
+                                "name": "coll-port-0-right",
+                                "alignment": "right",
+                                "parentNode": "c3fdf3f1-4f90-423b-a6eb-2075714e09c9",
+                                "links": [
+                                    "79290b03-9399-4931-808c-96113b35d0ff",
+                                    "4dfa109d-6267-48fa-9f36-2266e77f9d7f",
+                                    "e9643c7b-2407-401e-9f3b-7f56151e4127"
+                                ]
+                            }
+                        ],
+                        "name": "Untitled",
+                        "color": "rgb(0,192,255)",
+                        "portsInOrder": [],
+                        "portsOutOrder": [
+                            "3ce280c6-fa04-4df4-9f34-93cde04588ea",
+                            "038493b0-ece4-4551-b558-4bb0fff3d414"
+                        ],
+                        "otherInfo": {
+                            "data": {
+                                "name": "clients",
+                                "description": "\u041a\u043b\u0438\u0435\u043d\u0442\u044b",
+                                "coll_inherits": [],
+                                "hastoasttable": true,
+                                "toast_autovacuum_enabled": "x",
+                                "autovacuum_enabled": "x",
+                                "primary_key": [
+                                    {
+                                        "columns": [
+                                            {
+                                                "column": "client_id",
+                                                "cid": "c117"
+                                            }
+                                        ],
+                                        "include": [],
+                                        "cid": "c116"
+                                    }
+                                ],
+                                "foreign_key": [],
+                                "partition_keys": [],
+                                "partitions": [],
+                                "partition_type": "range",
+                                "is_partitioned": false,
+                                "columns": [
+                                    {
+                                        "name": "client_id",
+                                        "is_primary_key": true,
+                                        "attnum": 0,
+                                        "cltype": "uuid",
+                                        "attlen": null,
+                                        "attprecision": null,
+                                        "collspcname": null,
+                                        "attnotnull": true,
+                                        "colconstype": "n",
+                                        "attidentity": "a",
+                                        "attoptions": [],
+                                        "cid": "c118"
+                                    },
+                                    {
+                                        "name": "first_name",
+                                        "is_primary_key": false,
+                                        "attnum": 1,
+                                        "cltype": "text",
+                                        "attlen": null,
+                                        "attprecision": null,
+                                        "attnotnull": true,
+                                        "colconstype": "n",
+                                        "attidentity": "a",
+                                        "attoptions": [],
+                                        "cid": "c119"
+                                    },
+                                    {
+                                        "name": "surname",
+                                        "is_primary_key": false,
+                                        "attnum": 2,
+                                        "cltype": "text",
+                                        "attlen": null,
+                                        "attprecision": null,
+                                        "attnotnull": true,
+                                        "colconstype": "n",
+                                        "attidentity": "a",
+                                        "attoptions": [],
+                                        "cid": "c120"
+                                    },
+                                    {
+                                        "name": "document_number",
+                                        "is_primary_key": false,
+                                        "attnum": 3,
+                                        "cltype": "text",
+                                        "attlen": null,
+                                        "attprecision": null,
+                                        "collspcname": null,
+                                        "attnotnull": true,
+                                        "colconstype": "n",
+                                        "attidentity": "a",
+                                        "attoptions": [],
+                                        "cid": "c121"
+                                    },
+                                    {
+                                        "name": "document_type",
+                                        "is_primary_key": false,
+                                        "attnum": 4,
+                                        "cltype": "integer",
+                                        "attlen": null,
+                                        "attprecision": null,
+                                        "collspcname": null,
+                                        "attnotnull": true,
+                                        "colconstype": "n",
+                                        "attidentity": "a",
+                                        "attoptions": [],
+                                        "cid": "c122"
+                                    },
+                                    {
+                                        "name": "document_date",
+                                        "is_primary_key": false,
+                                        "attnum": 5,
+                                        "cltype": "date",
+                                        "attlen": null,
+                                        "attprecision": null,
+                                        "collspcname": null,
+                                        "attnotnull": true,
+                                        "colconstype": "n",
+                                        "attidentity": "a",
+                                        "attoptions": [],
+                                        "cid": "c123"
+                                    },
+                                    {
+                                        "name": "birth_date",
+                                        "is_primary_key": false,
+                                        "attnum": 6,
+                                        "cltype": "date",
+                                        "attlen": null,
+                                        "attprecision": null,
+                                        "collspcname": null,
+                                        "attnotnull": true,
+                                        "colconstype": "n",
+                                        "attidentity": "a",
+                                        "attoptions": [],
+                                        "cid": "c124"
+                                    },
+                                    {
+                                        "name": "address",
+                                        "is_primary_key": false,
+                                        "attnum": 7,
+                                        "cltype": "text",
+                                        "attlen": null,
+                                        "attprecision": null,
+                                        "attnotnull": true,
+                                        "colconstype": "n",
+                                        "attidentity": "a",
+                                        "attoptions": [],
+                                        "cid": "c125"
+                                    }
+                                ],
+                                "schema": "public"
+                            },
+                            "note": "",
+                            "metadata": {
+                                "data_failed": false,
+                                "is_promise": false,
+                                "fillColor": null,
+                                "textColor": null
+                            }
+                        }
+                    },
+                    "6018e729-27a4-49c0-ad32-5901488a01c5": {
+                        "id": "6018e729-27a4-49c0-ad32-5901488a01c5",
+                        "type": "table",
+                        "selected": false,
+                        "x": -15,
+                        "y": 285,
+                        "ports": [
+                            {
+                                "id": "78a665ab-316e-4667-a4f1-7e4a8ed24b50",
+                                "type": "onetomany",
+                                "x": -14.000001652034406,
+                                "y": 451.9999752199815,
+                                "name": "coll-port-3-left",
+                                "alignment": "left",
+                                "parentNode": "6018e729-27a4-49c0-ad32-5901488a01c5",
+                                "links": []
+                            },
+                            {
+                                "id": "5ceac476-5df3-4179-b635-06459e391e6d",
+                                "type": "onetomany",
+                                "x": 158.9999865018828,
+                                "y": 451.9999752199815,
+                                "name": "coll-port-3-right",
+                                "alignment": "right",
+                                "parentNode": "6018e729-27a4-49c0-ad32-5901488a01c5",
+                                "links": [
+                                    "e9643c7b-2407-401e-9f3b-7f56151e4127"
+                                ]
+                            },
+                            {
+                                "id": "4b69cc35-4494-4d74-ae12-1d06d922a70b",
+                                "type": "onetomany",
+                                "x": -14.000001652034406,
+                                "y": 376.999984328028,
+                                "name": "coll-port-0-left",
+                                "alignment": "left",
+                                "parentNode": "6018e729-27a4-49c0-ad32-5901488a01c5",
+                                "links": []
+                            },
+                            {
+                                "id": "c2448af4-4382-434c-a755-af953f2de454",
+                                "type": "onetomany",
+                                "x": 158.9999865018828,
+                                "y": 376.999984328028,
+                                "name": "coll-port-0-right",
+                                "alignment": "right",
+                                "parentNode": "6018e729-27a4-49c0-ad32-5901488a01c5",
+                                "links": [
+                                    "c912b65d-87e1-4608-af12-270d100bdd0f"
+                                ]
+                            }
+                        ],
+                        "name": "Untitled",
+                        "color": "rgb(0,192,255)",
+                        "portsInOrder": [],
+                        "portsOutOrder": [
+                            "78a665ab-316e-4667-a4f1-7e4a8ed24b50",
+                            "5ceac476-5df3-4179-b635-06459e391e6d",
+                            "4b69cc35-4494-4d74-ae12-1d06d922a70b",
+                            "c2448af4-4382-434c-a755-af953f2de454"
+                        ],
+                        "otherInfo": {
+                            "data": {
+                                "columns": [
+                                    {
+                                        "name": "deposit_account_id",
+                                        "is_primary_key": true,
+                                        "attnum": 0,
+                                        "cltype": "uuid",
+                                        "attlen": null,
+                                        "attprecision": null,
+                                        "collspcname": null,
+                                        "attnotnull": true,
+                                        "colconstype": "n",
+                                        "attidentity": "a",
+                                        "attoptions": [],
+                                        "cid": "c761"
+                                    },
+                                    {
+                                        "name": "currency",
+                                        "is_primary_key": false,
+                                        "attnum": 1,
+                                        "cltype": "integer",
+                                        "attlen": null,
+                                        "attprecision": null,
+                                        "collspcname": null,
+                                        "attnotnull": true,
+                                        "colconstype": "n",
+                                        "attidentity": "a",
+                                        "attoptions": [],
+                                        "cid": "c762"
+                                    },
+                                    {
+                                        "name": "stating_date",
+                                        "is_primary_key": false,
+                                        "attnum": 2,
+                                        "cltype": "date",
+                                        "attlen": null,
+                                        "attprecision": null,
+                                        "collspcname": null,
+                                        "attnotnull": true,
+                                        "colconstype": "n",
+                                        "attidentity": "a",
+                                        "attoptions": [],
+                                        "cid": "c763"
+                                    },
+                                    {
+                                        "name": "created_by",
+                                        "is_primary_key": false,
+                                        "attnum": 3,
+                                        "cltype": "uuid",
+                                        "attlen": null,
+                                        "attprecision": null,
+                                        "collspcname": null,
+                                        "attnotnull": true,
+                                        "colconstype": "n",
+                                        "attidentity": "a",
+                                        "attoptions": [],
+                                        "cid": "c764"
+                                    }
+                                ],
+                                "name": "deposit_accounts",
+                                "coll_inherits": [],
+                                "hastoasttable": true,
+                                "toast_autovacuum_enabled": "x",
+                                "autovacuum_enabled": "x",
+                                "primary_key": [
+                                    {
+                                        "columns": [
+                                            {
+                                                "column": "deposit_account_id",
+                                                "cid": "c758"
+                                            }
+                                        ],
+                                        "include": [],
+                                        "cid": "c757"
+                                    }
+                                ],
+                                "foreign_key": [
+                                    {
+                                        "confmatchtype": false,
+                                        "autoindex": false,
+                                        "columns": [
+                                            {
+                                                "local_column": "created_by",
+                                                "referenced": "client_id",
+                                                "references_table_name": "clients",
+                                                "references": "c3fdf3f1-4f90-423b-a6eb-2075714e09c9",
+                                                "cid": "c760"
+                                            }
+                                        ],
+                                        "confupdtype": "a",
+                                        "confdeltype": "a",
+                                        "cid": "c759"
+                                    }
+                                ],
+                                "partition_keys": [],
+                                "partitions": [],
+                                "partition_type": "range",
+                                "is_partitioned": false,
+                                "schema": "public",
+                                "unique_constraint": [
+                                    {
+                                        "name": "one_to_one",
+                                        "columns": [
+                                            {
+                                                "column": "deposit_account_id"
+                                            }
+                                        ],
+                                        "include": [],
+                                        "cid": "c767"
+                                    }
+                                ]
+                            },
+                            "note": "",
+                            "metadata": {
+                                "data_failed": false,
+                                "is_promise": false,
+                                "fillColor": null,
+                                "textColor": null
+                            }
+                        }
+                    },
+                    "afeabd98-7a23-4e2e-937b-407e528a4a03": {
+                        "id": "afeabd98-7a23-4e2e-937b-407e528a4a03",
+                        "type": "table",
+                        "selected": false,
+                        "x": 195,
+                        "y": 345,
+                        "ports": [
+                            {
+                                "id": "5d1bdde2-c140-4fec-8169-4b76691ddcbc",
+                                "type": "onetomany",
+                                "x": 196.00000602233808,
+                                "y": 511.9999774126593,
+                                "name": "coll-port-3-left",
+                                "alignment": "left",
+                                "parentNode": "afeabd98-7a23-4e2e-937b-407e528a4a03",
+                                "links": []
+                            },
+                            {
+                                "id": "6d1f19be-a983-46d0-a76d-d83724600115",
+                                "type": "onetomany",
+                                "x": 369.000017874043,
+                                "y": 511.9999774126593,
+                                "name": "coll-port-3-right",
+                                "alignment": "right",
+                                "parentNode": "afeabd98-7a23-4e2e-937b-407e528a4a03",
+                                "links": [
+                                    "79290b03-9399-4931-808c-96113b35d0ff"
+                                ]
+                            },
+                            {
+                                "id": "1f489008-6735-4979-ad31-100be2e134c0",
+                                "type": "onetomany",
+                                "x": 196.00000602233808,
+                                "y": 436.9999865207059,
+                                "name": "coll-port-0-left",
+                                "alignment": "left",
+                                "parentNode": "afeabd98-7a23-4e2e-937b-407e528a4a03",
+                                "links": []
+                            },
+                            {
+                                "id": "9ba67984-1479-4751-b98b-1a775f0824ca",
+                                "type": "onetomany",
+                                "x": 369.000017874043,
+                                "y": 436.9999865207059,
+                                "name": "coll-port-0-right",
+                                "alignment": "right",
+                                "parentNode": "afeabd98-7a23-4e2e-937b-407e528a4a03",
+                                "links": [
+                                    "61ee39ac-f4dc-45ac-bad4-e0a0a9913f8a"
+                                ]
+                            }
+                        ],
+                        "name": "Untitled",
+                        "color": "rgb(0,192,255)",
+                        "portsInOrder": [],
+                        "portsOutOrder": [
+                            "5d1bdde2-c140-4fec-8169-4b76691ddcbc",
+                            "6d1f19be-a983-46d0-a76d-d83724600115",
+                            "1f489008-6735-4979-ad31-100be2e134c0",
+                            "9ba67984-1479-4751-b98b-1a775f0824ca"
+                        ],
+                        "otherInfo": {
+                            "data": {
+                                "columns": [
+                                    {
+                                        "name": "account_id",
+                                        "is_primary_key": true,
+                                        "attnum": 0,
+                                        "cltype": "uuid",
+                                        "attlen": null,
+                                        "attprecision": null,
+                                        "collspcname": null,
+                                        "attnotnull": true,
+                                        "colconstype": "n",
+                                        "attidentity": "a",
+                                        "attoptions": [],
+                                        "cid": "c15"
+                                    },
+                                    {
+                                        "name": "currency",
+                                        "is_primary_key": false,
+                                        "attnum": 1,
+                                        "cltype": "integer",
+                                        "attlen": null,
+                                        "attprecision": null,
+                                        "collspcname": null,
+                                        "attnotnull": true,
+                                        "colconstype": "n",
+                                        "attidentity": "a",
+                                        "attoptions": [],
+                                        "cid": "c16"
+                                    },
+                                    {
+                                        "name": "starting_date",
+                                        "is_primary_key": false,
+                                        "attnum": 2,
+                                        "cltype": "date",
+                                        "attlen": null,
+                                        "attprecision": null,
+                                        "collspcname": null,
+                                        "attnotnull": true,
+                                        "colconstype": "n",
+                                        "attidentity": "a",
+                                        "attoptions": [],
+                                        "cid": "c17"
+                                    },
+                                    {
+                                        "name": "created_by",
+                                        "is_primary_key": false,
+                                        "attnum": 3,
+                                        "cltype": "uuid",
+                                        "attlen": null,
+                                        "attprecision": null,
+                                        "collspcname": null,
+                                        "attnotnull": true,
+                                        "colconstype": "n",
+                                        "attidentity": "a",
+                                        "attoptions": [],
+                                        "cid": "c18"
+                                    }
+                                ],
+                                "name": "current_accounts",
+                                "coll_inherits": [],
+                                "hastoasttable": true,
+                                "toast_autovacuum_enabled": "x",
+                                "autovacuum_enabled": "x",
+                                "primary_key": [
+                                    {
+                                        "columns": [
+                                            {
+                                                "column": "account_id",
+                                                "cid": "c12"
+                                            }
+                                        ],
+                                        "include": [],
+                                        "cid": "c11"
+                                    }
+                                ],
+                                "foreign_key": [
+                                    {
+                                        "confmatchtype": false,
+                                        "autoindex": false,
+                                        "columns": [
+                                            {
+                                                "local_column": "created_by",
+                                                "referenced": "client_id",
+                                                "references_table_name": "clients",
+                                                "references": "c3fdf3f1-4f90-423b-a6eb-2075714e09c9",
+                                                "cid": "c14"
+                                            }
+                                        ],
+                                        "confupdtype": "a",
+                                        "confdeltype": "a",
+                                        "cid": "c13"
+                                    }
+                                ],
+                                "partition_keys": [],
+                                "partitions": [],
+                                "partition_type": "range",
+                                "is_partitioned": false,
+                                "schema": "public"
+                            },
+                            "note": "",
+                            "metadata": {
+                                "data_failed": false,
+                                "is_promise": false,
+                                "fillColor": null,
+                                "textColor": null
+                            }
+                        }
+                    },
+                    "e00ee102-6f64-4132-8f8e-53a59558f5d6": {
+                        "id": "e00ee102-6f64-4132-8f8e-53a59558f5d6",
+                        "type": "table",
+                        "selected": false,
+                        "x": 15,
+                        "y": 510,
+                        "ports": [
+                            {
+                                "id": "35206d88-47d9-4919-a470-2153256d84e4",
+                                "type": "onetomany",
+                                "x": 15.999998896135057,
+                                "y": 751.9999544738753,
+                                "name": "coll-port-6-left",
+                                "alignment": "left",
+                                "parentNode": "e00ee102-6f64-4132-8f8e-53a59558f5d6",
+                                "links": []
+                            },
+                            {
+                                "id": "775b8b83-788d-4584-9ea0-c85c9ed673bc",
+                                "type": "onetomany",
+                                "x": 188.99999889894613,
+                                "y": 751.9999544738753,
+                                "name": "coll-port-6-right",
+                                "alignment": "right",
+                                "parentNode": "e00ee102-6f64-4132-8f8e-53a59558f5d6",
+                                "links": [
+                                    "c912b65d-87e1-4608-af12-270d100bdd0f"
+                                ]
+                            },
+                            {
+                                "id": "5075f32f-55fc-4165-8b10-8e7afa77226e",
+                                "type": "onetomany",
+                                "x": 15.999998896135057,
+                                "y": 726.9999259128406,
+                                "name": "coll-port-5-left",
+                                "alignment": "left",
+                                "parentNode": "e00ee102-6f64-4132-8f8e-53a59558f5d6",
+                                "links": []
+                            },
+                            {
+                                "id": "5b3b2ddf-8e25-4998-929f-d94939374f7d",
+                                "type": "onetomany",
+                                "x": 188.99999889894613,
+                                "y": 726.9999259128406,
+                                "name": "coll-port-5-right",
+                                "alignment": "right",
+                                "parentNode": "e00ee102-6f64-4132-8f8e-53a59558f5d6",
+                                "links": [
+                                    "61ee39ac-f4dc-45ac-bad4-e0a0a9913f8a"
+                                ]
+                            },
+                            {
+                                "id": "c31e884d-ad3c-4a53-a5e6-fda5916b098f",
+                                "type": "onetomany",
+                                "x": 15.999998896135057,
+                                "y": 701.9999921429567,
+                                "name": "coll-port-4-left",
+                                "alignment": "left",
+                                "parentNode": "e00ee102-6f64-4132-8f8e-53a59558f5d6",
+                                "links": []
+                            },
+                            {
+                                "id": "af816fb8-dd40-4b9a-9f8b-d4df51d7e988",
+                                "type": "onetomany",
+                                "x": 188.99999889894613,
+                                "y": 701.9999921429567,
+                                "name": "coll-port-4-right",
+                                "alignment": "right",
+                                "parentNode": "e00ee102-6f64-4132-8f8e-53a59558f5d6",
+                                "links": [
+                                    "4dfa109d-6267-48fa-9f36-2266e77f9d7f"
+                                ]
+                            },
+                            {
+                                "id": "07cde389-8245-498d-a5e7-1201903cbbe8",
+                                "type": "onetomany",
+                                "x": 15.999998896135057,
+                                "y": 776.9999830349102,
+                                "name": "coll-port-7-left",
+                                "alignment": "left",
+                                "parentNode": "e00ee102-6f64-4132-8f8e-53a59558f5d6",
+                                "links": []
+                            },
+                            {
+                                "id": "f2908cf6-24f9-4a5d-ba38-3e75ff77eb08",
+                                "type": "onetomany",
+                                "x": 188.99999889894613,
+                                "y": 776.9999830349102,
+                                "name": "coll-port-7-right",
+                                "alignment": "right",
+                                "parentNode": "e00ee102-6f64-4132-8f8e-53a59558f5d6",
+                                "links": [
+                                    "beb0c03d-59d7-42f1-ad9d-6e5421e10e0d"
+                                ]
+                            }
+                        ],
+                        "name": "Untitled",
+                        "color": "rgb(0,192,255)",
+                        "portsInOrder": [],
+                        "portsOutOrder": [
+                            "35206d88-47d9-4919-a470-2153256d84e4",
+                            "775b8b83-788d-4584-9ea0-c85c9ed673bc",
+                            "5075f32f-55fc-4165-8b10-8e7afa77226e",
+                            "5b3b2ddf-8e25-4998-929f-d94939374f7d",
+                            "c31e884d-ad3c-4a53-a5e6-fda5916b098f",
+                            "af816fb8-dd40-4b9a-9f8b-d4df51d7e988",
+                            "07cde389-8245-498d-a5e7-1201903cbbe8",
+                            "f2908cf6-24f9-4a5d-ba38-3e75ff77eb08"
+                        ],
+                        "otherInfo": {
+                            "data": {
+                                "columns": [
+                                    {
+                                        "name": "contract_id",
+                                        "is_primary_key": true,
+                                        "attnum": 0,
+                                        "cltype": "uuid",
+                                        "attlen": null,
+                                        "attprecision": null,
+                                        "collspcname": null,
+                                        "attnotnull": true,
+                                        "colconstype": "n",
+                                        "attidentity": "a",
+                                        "attoptions": [],
+                                        "cid": "c918"
+                                    },
+                                    {
+                                        "name": "amount",
+                                        "is_primary_key": false,
+                                        "attnum": 1,
+                                        "cltype": "money",
+                                        "attlen": null,
+                                        "attprecision": null,
+                                        "collspcname": null,
+                                        "attnotnull": true,
+                                        "colconstype": "n",
+                                        "attidentity": "a",
+                                        "attoptions": [],
+                                        "cid": "c919"
+                                    },
+                                    {
+                                        "name": "starting_date",
+                                        "is_primary_key": false,
+                                        "attnum": 2,
+                                        "cltype": "date",
+                                        "attlen": null,
+                                        "attprecision": null,
+                                        "collspcname": null,
+                                        "attnotnull": true,
+                                        "colconstype": "n",
+                                        "attidentity": "a",
+                                        "attoptions": [],
+                                        "cid": "c920"
+                                    },
+                                    {
+                                        "name": "ending_date",
+                                        "is_primary_key": false,
+                                        "attnum": 3,
+                                        "cltype": "date",
+                                        "attlen": null,
+                                        "attprecision": null,
+                                        "collspcname": null,
+                                        "attnotnull": true,
+                                        "colconstype": "n",
+                                        "attidentity": "a",
+                                        "attoptions": [],
+                                        "cid": "c921"
+                                    },
+                                    {
+                                        "name": "client_id",
+                                        "is_primary_key": false,
+                                        "attnum": 4,
+                                        "cltype": "uuid",
+                                        "attlen": null,
+                                        "attprecision": null,
+                                        "collspcname": null,
+                                        "attnotnull": true,
+                                        "colconstype": "n",
+                                        "attidentity": "a",
+                                        "attoptions": [],
+                                        "cid": "c922"
+                                    },
+                                    {
+                                        "name": "current_account_id",
+                                        "is_primary_key": false,
+                                        "attnum": 5,
+                                        "cltype": "uuid",
+                                        "attlen": null,
+                                        "attprecision": null,
+                                        "collspcname": null,
+                                        "attnotnull": true,
+                                        "colconstype": "n",
+                                        "attidentity": "a",
+                                        "attoptions": [],
+                                        "cid": "c923"
+                                    },
+                                    {
+                                        "name": "deposit_account_id",
+                                        "is_primary_key": false,
+                                        "attnum": 6,
+                                        "cltype": "uuid",
+                                        "attlen": null,
+                                        "attprecision": null,
+                                        "collspcname": null,
+                                        "attnotnull": true,
+                                        "colconstype": "n",
+                                        "attidentity": "a",
+                                        "attoptions": [],
+                                        "cid": "c924"
+                                    },
+                                    {
+                                        "name": "deposit_type",
+                                        "is_primary_key": false,
+                                        "attnum": 7,
+                                        "cltype": "uuid",
+                                        "attlen": null,
+                                        "attprecision": null,
+                                        "collspcname": null,
+                                        "attnotnull": true,
+                                        "colconstype": "n",
+                                        "attidentity": "a",
+                                        "attoptions": [],
+                                        "cid": "c929"
+                                    }
+                                ],
+                                "name": "contracts",
+                                "coll_inherits": [],
+                                "hastoasttable": true,
+                                "toast_autovacuum_enabled": "x",
+                                "autovacuum_enabled": "x",
+                                "primary_key": [
+                                    {
+                                        "columns": [
+                                            {
+                                                "column": "contract_id",
+                                                "cid": "c911"
+                                            }
+                                        ],
+                                        "include": [],
+                                        "cid": "c910"
+                                    }
+                                ],
+                                "foreign_key": [
+                                    {
+                                        "confmatchtype": false,
+                                        "autoindex": false,
+                                        "columns": [
+                                            {
+                                                "local_column": "deposit_account_id",
+                                                "referenced": "deposit_account_id",
+                                                "references_table_name": "deposit_accounts",
+                                                "references": "6018e729-27a4-49c0-ad32-5901488a01c5",
+                                                "cid": "c913"
+                                            }
+                                        ],
+                                        "confupdtype": "a",
+                                        "confdeltype": "a",
+                                        "cid": "c912"
+                                    },
+                                    {
+                                        "confmatchtype": false,
+                                        "autoindex": false,
+                                        "columns": [
+                                            {
+                                                "local_column": "current_account_id",
+                                                "referenced": "account_id",
+                                                "references_table_name": "current_accounts",
+                                                "references": "afeabd98-7a23-4e2e-937b-407e528a4a03",
+                                                "cid": "c915"
+                                            }
+                                        ],
+                                        "confupdtype": "a",
+                                        "confdeltype": "a",
+                                        "cid": "c914"
+                                    },
+                                    {
+                                        "confmatchtype": false,
+                                        "autoindex": false,
+                                        "columns": [
+                                            {
+                                                "local_column": "client_id",
+                                                "referenced": "client_id",
+                                                "references_table_name": "clients",
+                                                "references": "c3fdf3f1-4f90-423b-a6eb-2075714e09c9",
+                                                "cid": "c917"
+                                            }
+                                        ],
+                                        "confupdtype": "a",
+                                        "confdeltype": "a",
+                                        "cid": "c916"
+                                    },
+                                    {
+                                        "confmatchtype": false,
+                                        "autoindex": false,
+                                        "columns": [
+                                            {
+                                                "local_column": "deposit_type",
+                                                "referenced": "deposit_id",
+                                                "references_table_name": "available_deposits",
+                                                "references": "db1737f8-4ef6-43a7-b6e4-7a496c9162ce"
+                                            }
+                                        ],
+                                        "confupdtype": "a",
+                                        "confdeltype": "a"
+                                    }
+                                ],
+                                "partition_keys": [],
+                                "partitions": [],
+                                "partition_type": "range",
+                                "is_partitioned": false,
+                                "schema": "public",
+                                "unique_constraint": [
+                                    {
+                                        "name": "deposit_account_id one-to-one",
+                                        "columns": [
+                                            {
+                                                "column": "deposit_account_id",
+                                                "cid": "c926"
+                                            }
+                                        ],
+                                        "include": [],
+                                        "cid": "c925"
+                                    }
+                                ]
+                            },
+                            "note": "",
+                            "metadata": {
+                                "data_failed": false,
+                                "is_promise": false,
+                                "fillColor": null,
+                                "textColor": null
+                            }
+                        }
+                    },
+                    "db1737f8-4ef6-43a7-b6e4-7a496c9162ce": {
+                        "id": "db1737f8-4ef6-43a7-b6e4-7a496c9162ce",
+                        "type": "table",
+                        "selected": false,
+                        "x": 540,
+                        "y": 330,
+                        "ports": [
+                            {
+                                "id": "66047dc6-cd54-4ffc-9a49-3ba27cbd9f33",
+                                "type": "onetomany",
+                                "x": 540.9999830835541,
+                                "y": 421.99999782143027,
+                                "name": "coll-port-0-left",
+                                "alignment": "left",
+                                "parentNode": "db1737f8-4ef6-43a7-b6e4-7a496c9162ce",
+                                "links": [
+                                    "beb0c03d-59d7-42f1-ad9d-6e5421e10e0d"
+                                ]
+                            },
+                            {
+                                "id": "cc4820a5-9c23-4f42-8b3e-91b327517dd9",
+                                "type": "onetomany",
+                                "x": 713.9999475396836,
+                                "y": 421.99999782143027,
+                                "name": "coll-port-0-right",
+                                "alignment": "right",
+                                "parentNode": "db1737f8-4ef6-43a7-b6e4-7a496c9162ce",
+                                "links": []
+                            }
+                        ],
+                        "name": "Untitled",
+                        "color": "rgb(0,192,255)",
+                        "portsInOrder": [],
+                        "portsOutOrder": [
+                            "66047dc6-cd54-4ffc-9a49-3ba27cbd9f33",
+                            "cc4820a5-9c23-4f42-8b3e-91b327517dd9"
+                        ],
+                        "otherInfo": {
+                            "data": {
+                                "name": "available_deposits",
+                                "coll_inherits": [],
+                                "hastoasttable": true,
+                                "toast_autovacuum_enabled": "x",
+                                "autovacuum_enabled": "x",
+                                "primary_key": [
+                                    {
+                                        "columns": [
+                                            {
+                                                "column": "deposit_id",
+                                                "cid": "c140"
+                                            }
+                                        ],
+                                        "include": [],
+                                        "cid": "c139"
+                                    }
+                                ],
+                                "foreign_key": [],
+                                "partition_keys": [],
+                                "partitions": [],
+                                "partition_type": "range",
+                                "is_partitioned": false,
+                                "columns": [
+                                    {
+                                        "name": "deposit_id",
+                                        "is_primary_key": true,
+                                        "attnum": 0,
+                                        "cltype": "uuid",
+                                        "attlen": null,
+                                        "attprecision": null,
+                                        "collspcname": null,
+                                        "attnotnull": true,
+                                        "colconstype": "n",
+                                        "attidentity": "a",
+                                        "attoptions": [],
+                                        "cid": "c141"
+                                    },
+                                    {
+                                        "name": "currency",
+                                        "is_primary_key": false,
+                                        "attnum": 1,
+                                        "cltype": "integer",
+                                        "attlen": null,
+                                        "attprecision": null,
+                                        "collspcname": null,
+                                        "attnotnull": true,
+                                        "colconstype": "n",
+                                        "attidentity": "a",
+                                        "attoptions": [],
+                                        "cid": "c142"
+                                    },
+                                    {
+                                        "name": "deposit_period",
+                                        "is_primary_key": false,
+                                        "attnum": 2,
+                                        "cltype": "interval",
+                                        "attlen": null,
+                                        "min_val_attlen": 0,
+                                        "max_val_attlen": 6,
+                                        "attprecision": null,
+                                        "collspcname": null,
+                                        "attnotnull": true,
+                                        "colconstype": "n",
+                                        "attidentity": "a",
+                                        "attoptions": [],
+                                        "cid": "c143"
+                                    },
+                                    {
+                                        "name": "deposit_sum",
+                                        "is_primary_key": false,
+                                        "attnum": 3,
+                                        "cltype": "money",
+                                        "attlen": null,
+                                        "attprecision": null,
+                                        "collspcname": null,
+                                        "attnotnull": true,
+                                        "colconstype": "n",
+                                        "attidentity": "a",
+                                        "attoptions": [],
+                                        "cid": "c144"
+                                    },
+                                    {
+                                        "name": "deposit_procent",
+                                        "is_primary_key": false,
+                                        "attnum": 4,
+                                        "cltype": "numeric",
+                                        "attlen": "",
+                                        "min_val_attlen": 1,
+                                        "max_val_attlen": 1000,
+                                        "attprecision": null,
+                                        "min_val_attprecision": 1,
+                                        "max_val_attprecision": 1000,
+                                        "collspcname": null,
+                                        "attnotnull": true,
+                                        "colconstype": "n",
+                                        "attidentity": "a",
+                                        "attoptions": [],
+                                        "cid": "c145"
+                                    }
+                                ],
+                                "schema": "public"
+                            },
+                            "note": "",
+                            "metadata": {
+                                "data_failed": false,
+                                "is_promise": false,
+                                "fillColor": null,
+                                "textColor": null
+                            }
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}
